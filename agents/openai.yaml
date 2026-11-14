@@ -1,0 +1,4 @@
+interface:
+  display_name: "GrokFilm 镜头导演"
+  short_description: "从三百项电影技巧中选择镜头、光线、剪辑与声音，写成可执行的分镜和提示词"
+  default_prompt: "用 $grokfilm-director 把这场戏拆成镜头，写出可复制的生成提示词，并标明声音和剪辑切点。"
